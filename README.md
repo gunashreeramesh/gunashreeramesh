@@ -1,6 +1,5 @@
 # 💫 About Me:
-I'm an Electronics and Communication Engineering student at The Oxford College of Engineering.I'm passionate about learning new technologies,exploring core electronics,and improving my coding skills.
-
+Electronics and Communication Engineering student with a strong interest in VLSI design and core electronics. Currently preparing for GATE 2027 while building a strong foundation in Digital Electronics and communication systems. Experienced with MATLAB and Simulink and learning Verilog and Cadence tools for VLSI design. Also learning Python to strengthen programming and problem-solving skills.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/G R Gunashree Ramesh) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gunashreeramesh9@gmail.com) 
